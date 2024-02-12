@@ -1,0 +1,21 @@
+
+@import url('./reset.css');
+@import url('./fonts.css');
+@import url('./variables.css');
+@import url('./components.css');
+
+@import url('./header.css');
+@import url('./hero-section.css');
+@import url('./quote-section.css');
+@import url('./exercises-section.css');
+@import url('./body-parts-section.css');
+@import url('./daily-norm-section.css');
+@import url('./footer.css');
+@import url('./mobile-menu.css');
+@import url('./modal-exercise.css');
+
+@import url('./favorites-header.css');
+@import url('./favorites-quote-section.css');
+@import url('./favorites-section.css')
+
+
